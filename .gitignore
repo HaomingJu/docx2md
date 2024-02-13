@@ -1,0 +1,6 @@
+*.epub
+.idea/
+__pycache__/
+.DS_Store
+db/*
+md/*
